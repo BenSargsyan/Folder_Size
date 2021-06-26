@@ -1,4 +1,3 @@
-import javax.imageio.plugins.jpeg.JPEGImageReadParam;
 import java.io.File;
 
 public class MyThread extends Thread{
