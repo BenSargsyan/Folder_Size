@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main{
     public static void main(String[] args) {
-
+        //Directory example to copy -- C:\Program Files (x86)
         Scanner sc=new Scanner(System.in);
         System.out.println("Pleas enter file directory");
         String path=sc.next();
